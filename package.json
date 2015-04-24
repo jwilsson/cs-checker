@@ -1,0 +1,15 @@
+{
+  "name": "cs-checker",
+  "version": "1.0.0",
+  "description": "A tool to compare JavaScript code styles with the help of JSHint.",
+  "main": "index.js",
+  "dependencies": {
+    "jshint": "^2.7.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jwilsson/cs-checker.git"
+  },
+  "license": "MIT"
+}
