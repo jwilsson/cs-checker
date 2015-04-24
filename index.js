@@ -1,4 +1,5 @@
 var request = require('request');
+var checker = require('./lib/checker');
 
 var options = {
     url: 'https://api.github.com/search/repositories?q=language:JavaScript&sort=stars&per_page=50',
@@ -8,7 +9,7 @@ var options = {
 };
 
 request(options, function (error, response, body) {
-    var repos = JSON.parse(body);
+    body = JSON.parse(body);
 
-    console.log(repos);
+    body.items.forEach(checker.check);
 });
