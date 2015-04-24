@@ -4,7 +4,8 @@
   "description": "A tool to compare JavaScript code styles with the help of JSHint.",
   "main": "index.js",
   "dependencies": {
-    "jshint": "^2.7.0"
+    "jshint": "^2.7.0",
+    "request": "^2.55.0"
   },
   "devDependencies": {},
   "repository": {
