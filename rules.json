@@ -1,0 +1,7 @@
+{
+    "requireCommaBeforeLineBreak": true,
+    "requireCurlyBraces": true,
+    "requireSemicolons": true,
+    "validateIndentation": 4,
+    "validateQuoteMarks": "'"
+}
