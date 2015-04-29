@@ -1,13 +1,12 @@
 {
   "name": "cs-checker",
   "version": "1.0.0",
-  "description": "A tool to compare JavaScript code styles with the help of JSHint.",
+  "description": "A tool to compare JavaScript code styles with the help of JSCS.",
   "main": "index.js",
   "dependencies": {
-    "jshint": "^2.7.0",
+    "jscs": "^1.13.0",
     "request": "^2.55.0",
-    "rimraf": "^2.3.2",
-    "strip-json-comments": "^1.0.2"
+    "rimraf": "^2.3.2"
   },
   "devDependencies": {},
   "repository": {
