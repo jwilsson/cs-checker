@@ -6,7 +6,8 @@
   "dependencies": {
     "jscs": "^1.13.0",
     "request": "^2.55.0",
-    "rimraf": "^2.3.2"
+    "rimraf": "^2.3.2",
+    "vow": "^0.4.9"
   },
   "devDependencies": {},
   "repository": {
