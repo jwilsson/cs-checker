@@ -4,7 +4,7 @@ var fs = require('fs');
 
 var jscsConfig = JSON.parse(fs.readFileSync(__dirname + '/rules.json', 'utf8'));
 var options = {
-    url: 'https://api.github.com/search/repositories?q=language:JavaScript&sort=stars&per_page=50',
+    url: 'https://api.github.com/search/repositories?q=language:JavaScript&sort=stars&per_page=100',
     headers: {
         'User-Agent': 'cs-checker by jwilsson'
     }
