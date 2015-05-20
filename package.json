@@ -4,10 +4,13 @@
   "description": "A tool to compare JavaScript code styles with the help of JSCS.",
   "main": "index.js",
   "dependencies": {
+    "glob": "^5.0.6",
     "jscs": "^1.13.0",
+    "lodash.merge": "^3.3.0",
     "request": "^2.55.0",
-    "rimraf": "^2.3.2",
-    "vow": "^0.4.9"
+    "rimraf": "^2.3.4",
+    "vow": "^0.4.9",
+    "yargs": "^3.9.1"
   },
   "devDependencies": {},
   "repository": {
