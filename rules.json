@@ -1,5 +1,6 @@
 {
     "excludeFiles": ["vendor/**"],
+    "maxErrors": 2500,
 
     "disallowMultipleVarDecl": "strict",
     "requireCommaBeforeLineBreak": true,
