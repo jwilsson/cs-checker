@@ -1,4 +1,7 @@
 {
+    "excludeFiles": ["vendor/**"],
+
+    "disallowMultipleVarDecl": "strict",
     "requireCommaBeforeLineBreak": true,
     "requireCurlyBraces": true,
     "requireSemicolons": true,
