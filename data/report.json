@@ -1,0 +1,496 @@
+{
+    "angular.js": {
+        "validateIndentation": 12,
+        "disallowMultipleVarDecl": 2,
+        "requireCurlyBraces": 1,
+        "files": 863
+    },
+    "d3": {
+        "validateIndentation": 34,
+        "parseError": 231,
+        "disallowMultipleVarDecl": 15,
+        "requireCurlyBraces": 2,
+        "files": 290
+    },
+    "node": {
+        "disallowMultipleVarDecl": 1,
+        "requireCurlyBraces": 2,
+        "validateIndentation": 4,
+        "files": 50
+    },
+    "jquery": {
+        "validateQuoteMarks": 10,
+        "files": 92
+    },
+    "html5-boilerplate": {
+        "requireSemicolons": 1,
+        "files": 3
+    },
+    "impress.js": {
+        "disallowMultipleVarDecl": 1,
+        "files": 1
+    },
+    "react": {
+        "validateIndentation": 49,
+        "parseError": 6,
+        "validateQuoteMarks": 2,
+        "files": 291
+    },
+    "backbone": {
+        "validateQuoteMarks": 1,
+        "validateIndentation": 4,
+        "files": 21
+    },
+    "reveal.js": {
+        "validateQuoteMarks": 1,
+        "requireSemicolons": 1,
+        "files": 3
+    },
+    "moment": {
+        "parseError": 293,
+        "files": 293
+    },
+    "jQuery-File-Upload": {
+        "disallowMultipleVarDecl": 12,
+        "validateIndentation": 1,
+        "files": 15
+    },
+    "three.js": {
+        "validateIndentation": 18,
+        "requireSemicolons": 1,
+        "files": 165
+    },
+    "express": {
+        "validateIndentation": 11,
+        "files": 11
+    },
+    "javascript": {
+        "files": 0
+    },
+    "socket.io": {
+        "validateIndentation": 3,
+        "requireCurlyBraces": 1,
+        "files": 4
+    },
+    "Semantic-UI": {
+        "validateQuoteMarks": 5,
+        "files": 23
+    },
+    "resume.github.com": {
+        "disallowMultipleVarDecl": 1,
+        "validateIndentation": 1,
+        "files": 2
+    },
+    "ionic": {
+        "validateIndentation": 10,
+        "files": 103
+    },
+    "You-Dont-Know-JS": {
+        "disallowMultipleVarDecl": 1,
+        "validateIndentation": 3,
+        "validateQuoteMarks": 2,
+        "requireCurlyBraces": 5,
+        "files": 21
+    },
+    "Ghost": {
+        "disallowMultipleVarDecl": 222,
+        "parseError": 221,
+        "files": 475
+    },
+    "Modernizr": {
+        "validateIndentation": 45,
+        "files": 45
+    },
+    "underscore": {
+        "validateIndentation": 5,
+        "requireSemicolons": 1,
+        "files": 13
+    },
+    "Chart.js": {
+        "validateQuoteMarks": 5,
+        "files": 6
+    },
+    "react-native": {
+        "parseError": 147,
+        "validateIndentation": 44,
+        "validateQuoteMarks": 1,
+        "files": 391
+    },
+    "select2": {
+        "parseError": 4,
+        "validateIndentation": 21,
+        "files": 91
+    },
+    "ember.js": {
+        "validateIndentation": 6,
+        "files": 6
+    },
+    "gulp": {
+        "validateIndentation": 2,
+        "files": 2
+    },
+    "async": {
+        "validateIndentation": 2,
+        "disallowMultipleVarDecl": 1,
+        "validateQuoteMarks": 3,
+        "files": 6
+    },
+    "io.js": {
+        "validateIndentation": 6,
+        "requireCurlyBraces": 2,
+        "files": 57
+    },
+    "less.js": {
+        "validateQuoteMarks": 36,
+        "disallowMultipleVarDecl": 54,
+        "requireCurlyBraces": 1,
+        "validateIndentation": 1,
+        "parseError": 2,
+        "files": 102
+    },
+    "bower": {
+        "disallowMultipleVarDecl": 4,
+        "requireCurlyBraces": 2,
+        "files": 54
+    },
+    "pdf.js": {
+        "validateIndentation": 9,
+        "files": 42
+    },
+    "jquery-pjax": {
+        "validateIndentation": 1,
+        "requireSemicolons": 1,
+        "disallowMultipleVarDecl": 1,
+        "files": 8
+    },
+    "hammer.js": {
+        "disallowMultipleVarDecl": 4,
+        "files": 19
+    },
+    "sails": {
+        "validateIndentation": 27,
+        "disallowMultipleVarDecl": 6,
+        "files": 100
+    },
+    "Leaflet": {
+        "validateIndentation": 27,
+        "disallowMultipleVarDecl": 2,
+        "files": 72
+    },
+    "ace": {
+        "validateQuoteMarks": 22,
+        "files": 626
+    },
+    "slick": {
+        "disallowMultipleVarDecl": 1,
+        "validateQuoteMarks": 1,
+        "files": 2
+    },
+    "sweetalert": {
+        "parseError": 10,
+        "validateQuoteMarks": 2,
+        "validateIndentation": 1,
+        "files": 13
+    },
+    "typeahead.js": {
+        "validateIndentation": 20,
+        "files": 21
+    },
+    "Flat-UI": {
+        "validateIndentation": 2,
+        "requireCurlyBraces": 1,
+        "files": 10
+    },
+    "jquery-mobile": {
+        "validateQuoteMarks": 25,
+        "validateIndentation": 2,
+        "files": 88
+    },
+    "grunt": {
+        "validateIndentation": 10,
+        "files": 11
+    },
+    "fastclick": {
+        "validateIndentation": 1,
+        "files": 1
+    },
+    "lodash": {
+        "validateIndentation": 1,
+        "files": 33
+    },
+    "fullPage.js": {
+        "validateQuoteMarks": 4,
+        "validateIndentation": 2,
+        "requireCurlyBraces": 1,
+        "disallowMultipleVarDecl": 1,
+        "files": 8
+    },
+    "nprogress": {
+        "validateIndentation": 2,
+        "files": 2
+    },
+    "video.js": {
+        "parseError": 74,
+        "files": 74
+    },
+    "backbone-fundamentals": {
+        "disallowMultipleVarDecl": 4,
+        "validateQuoteMarks": 10,
+        "validateIndentation": 5,
+        "parseError": 1,
+        "files": 134
+    },
+    "bootstrap": {
+        "validateIndentation": 15,
+        "disallowMultipleVarDecl": 3,
+        "files": 65
+    },
+    "jquery-ui": {
+        "validateQuoteMarks": 2,
+        "disallowMultipleVarDecl": 1,
+        "validateIndentation": 4,
+        "files": 277
+    },
+    "Respond": {
+        "validateQuoteMarks": 3,
+        "files": 3
+    },
+    "jasmine": {
+        "validateIndentation": 37,
+        "files": 55
+    },
+    "gitbook": {
+        "validateQuoteMarks": 19,
+        "requireCurlyBraces": 4,
+        "disallowMultipleVarDecl": 1,
+        "requireSemicolons": 1,
+        "files": 25
+    },
+    "q": {
+        "validateQuoteMarks": 17,
+        "disallowMultipleVarDecl": 3,
+        "parseError": 4,
+        "validateIndentation": 1,
+        "files": 25
+    },
+    "phaser": {
+        "parseError": 4,
+        "validateIndentation": 4,
+        "validateQuoteMarks": 53,
+        "disallowMultipleVarDecl": 13,
+        "requireCurlyBraces": 2,
+        "files": 189
+    },
+    "dashing": {
+        "validateIndentation": 1,
+        "validateQuoteMarks": 1,
+        "requireSemicolons": 1,
+        "files": 9
+    },
+    "angular-seed": {
+        "validateIndentation": 13,
+        "files": 14
+    },
+    "material": {
+        "validateIndentation": 23,
+        "files": 145
+    },
+    "jade": {
+        "validateIndentation": 20,
+        "requireCommaBeforeLineBreak": 2,
+        "disallowMultipleVarDecl": 1,
+        "requireCurlyBraces": 1,
+        "files": 26
+    },
+    "handlebars.js": {
+        "parseError": 1,
+        "files": 2
+    },
+    "parallax": {
+        "validateIndentation": 5,
+        "validateQuoteMarks": 2,
+        "requireCurlyBraces": 1,
+        "disallowMultipleVarDecl": 1,
+        "files": 10
+    },
+    "masonry": {
+        "validateIndentation": 4,
+        "requireSemicolons": 1,
+        "files": 15
+    },
+    "material-ui": {
+        "validateIndentation": 29,
+        "disallowMultipleVarDecl": 1,
+        "files": 33
+    },
+    "history.js": {
+        "disallowMultipleVarDecl": 1,
+        "validateIndentation": 1,
+        "files": 65
+    },
+    "PhotoSwipe": {
+        "disallowMultipleVarDecl": 5,
+        "validateIndentation": 4,
+        "files": 9
+    },
+    "dropzone": {
+        "validateIndentation": 1,
+        "disallowMultipleVarDecl": 1,
+        "files": 6
+    },
+    "PM2": {
+        "validateIndentation": 8,
+        "disallowMultipleVarDecl": 2,
+        "files": 37
+    },
+    "mustache.js": {
+        "validateIndentation": 50,
+        "validateQuoteMarks": 9,
+        "requireSemicolons": 8,
+        "files": 70
+    },
+    "onepage-scroll": {
+        "validateIndentation": 2,
+        "validateQuoteMarks": 1,
+        "files": 3
+    },
+    "pixi.js": {
+        "disallowMultipleVarDecl": 45,
+        "validateIndentation": 15,
+        "files": 111
+    },
+    "statsd": {
+        "disallowMultipleVarDecl": 1,
+        "requireCurlyBraces": 1,
+        "validateIndentation": 5,
+        "files": 7
+    },
+    "requirejs": {
+        "disallowMultipleVarDecl": 4,
+        "validateQuoteMarks": 34,
+        "files": 402
+    },
+    "velocity": {
+        "validateQuoteMarks": 3,
+        "disallowMultipleVarDecl": 1,
+        "files": 11
+    },
+    "TimelineJS": {
+        "validateQuoteMarks": 2,
+        "disallowMultipleVarDecl": 2,
+        "files": 162
+    },
+    "uBlock": {
+        "requireCurlyBraces": 1,
+        "validateIndentation": 21,
+        "disallowMultipleVarDecl": 7,
+        "validateQuoteMarks": 3,
+        "files": 41
+    },
+    "request": {
+        "requireSemicolons": 9,
+        "files": 9
+    },
+    "node-browserify": {
+        "files": 3
+    },
+    "markdown-here": {
+        "validateQuoteMarks": 5,
+        "validateIndentation": 3,
+        "files": 29
+    },
+    "dashboards": {
+        "validateIndentation": 10,
+        "disallowMultipleVarDecl": 1,
+        "validateQuoteMarks": 2,
+        "files": 132
+    },
+    "spin.js": {
+        "validateIndentation": 3,
+        "disallowMultipleVarDecl": 3,
+        "requireCurlyBraces": 1,
+        "files": 8
+    },
+    "raphael": {
+        "validateQuoteMarks": 2,
+        "validateIndentation": 1,
+        "disallowMultipleVarDecl": 3,
+        "files": 11
+    },
+    "jquery-cookie": {
+        "validateIndentation": 3,
+        "files": 3
+    },
+    "headroom.js": {
+        "validateIndentation": 6,
+        "files": 6
+    },
+    "ui-router": {
+        "disallowMultipleVarDecl": 5,
+        "validateIndentation": 6,
+        "files": 11
+    },
+    "famous": {
+        "requireCurlyBraces": 87,
+        "validateIndentation": 2,
+        "files": 101
+    },
+    "picturefill": {
+        "validateQuoteMarks": 1,
+        "validateIndentation": 4,
+        "files": 5
+    },
+    "node-inspector": {
+        "disallowMultipleVarDecl": 14,
+        "validateIndentation": 9,
+        "files": 24
+    },
+    "echarts": {
+        "disallowMultipleVarDecl": 23,
+        "validateIndentation": 19,
+        "requireSemicolons": 1,
+        "requireCurlyBraces": 8,
+        "validateQuoteMarks": 8,
+        "files": 119
+    },
+    "mongoose": {
+        "disallowMultipleVarDecl": 7,
+        "validateIndentation": 3,
+        "requireSemicolons": 2,
+        "files": 52
+    },
+    "awesome-react": {
+        "validateIndentation": 3,
+        "files": 4
+    },
+    "CodeMirror": {
+        "validateQuoteMarks": 1,
+        "requireCurlyBraces": 3,
+        "files": 194
+    },
+    "mean": {
+        "disallowMultipleVarDecl": 19,
+        "validateIndentation": 43,
+        "requireCurlyBraces": 7,
+        "validateQuoteMarks": 1,
+        "files": 89
+    },
+    "immutable-js": {
+        "parseError": 28,
+        "files": 28
+    },
+    "mocha": {
+        "validateIndentation": 11,
+        "requireCurlyBraces": 1,
+        "disallowMultipleVarDecl": 20,
+        "files": 42
+    },
+    "jQuery-menu-aim": {
+        "validateQuoteMarks": 2,
+        "files": 4
+    },
+    "json-server": {
+        "requireSemicolons": 4,
+        "files": 4
+    }
+}

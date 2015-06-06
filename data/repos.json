@@ -1,0 +1,402 @@
+[
+    {
+        "name": "angular.js",
+        "url": "https://github.com/angular/angular.js.git"
+    },
+    {
+        "name": "d3",
+        "url": "https://github.com/mbostock/d3.git"
+    },
+    {
+        "name": "node",
+        "url": "https://github.com/joyent/node.git"
+    },
+    {
+        "name": "jquery",
+        "url": "https://github.com/jquery/jquery.git"
+    },
+    {
+        "name": "html5-boilerplate",
+        "url": "https://github.com/h5bp/html5-boilerplate.git"
+    },
+    {
+        "name": "meteor",
+        "url": "https://github.com/meteor/meteor.git"
+    },
+    {
+        "name": "impress.js",
+        "url": "https://github.com/bartaz/impress.js.git"
+    },
+    {
+        "name": "react",
+        "url": "https://github.com/facebook/react.git"
+    },
+    {
+        "name": "brackets",
+        "url": "https://github.com/adobe/brackets.git"
+    },
+    {
+        "name": "backbone",
+        "url": "https://github.com/jashkenas/backbone.git"
+    },
+    {
+        "name": "reveal.js",
+        "url": "https://github.com/hakimel/reveal.js.git"
+    },
+    {
+        "name": "moment",
+        "url": "https://github.com/moment/moment.git"
+    },
+    {
+        "name": "jQuery-File-Upload",
+        "url": "https://github.com/blueimp/jQuery-File-Upload.git"
+    },
+    {
+        "name": "three.js",
+        "url": "https://github.com/mrdoob/three.js.git"
+    },
+    {
+        "name": "express",
+        "url": "https://github.com/strongloop/express.git"
+    },
+    {
+        "name": "javascript",
+        "url": "https://github.com/airbnb/javascript.git"
+    },
+    {
+        "name": "socket.io",
+        "url": "https://github.com/Automattic/socket.io.git"
+    },
+    {
+        "name": "Semantic-UI",
+        "url": "https://github.com/Semantic-Org/Semantic-UI.git"
+    },
+    {
+        "name": "resume.github.com",
+        "url": "https://github.com/resume/resume.github.com.git"
+    },
+    {
+        "name": "ionic",
+        "url": "https://github.com/driftyco/ionic.git"
+    },
+    {
+        "name": "You-Dont-Know-JS",
+        "url": "https://github.com/getify/You-Dont-Know-JS.git"
+    },
+    {
+        "name": "Ghost",
+        "url": "https://github.com/TryGhost/Ghost.git"
+    },
+    {
+        "name": "Modernizr",
+        "url": "https://github.com/Modernizr/Modernizr.git"
+    },
+    {
+        "name": "underscore",
+        "url": "https://github.com/jashkenas/underscore.git"
+    },
+    {
+        "name": "Chart.js",
+        "url": "https://github.com/nnnick/Chart.js.git"
+    },
+    {
+        "name": "react-native",
+        "url": "https://github.com/facebook/react-native.git"
+    },
+    {
+        "name": "select2",
+        "url": "https://github.com/select2/select2.git"
+    },
+    {
+        "name": "ember.js",
+        "url": "https://github.com/emberjs/ember.js.git"
+    },
+    {
+        "name": "gulp",
+        "url": "https://github.com/gulpjs/gulp.git"
+    },
+    {
+        "name": "async",
+        "url": "https://github.com/caolan/async.git"
+    },
+    {
+        "name": "todomvc",
+        "url": "https://github.com/tastejs/todomvc.git"
+    },
+    {
+        "name": "io.js",
+        "url": "https://github.com/nodejs/io.js.git"
+    },
+    {
+        "name": "less.js",
+        "url": "https://github.com/less/less.js.git"
+    },
+    {
+        "name": "bower",
+        "url": "https://github.com/bower/bower.git"
+    },
+    {
+        "name": "pdf.js",
+        "url": "https://github.com/mozilla/pdf.js.git"
+    },
+    {
+        "name": "jquery-pjax",
+        "url": "https://github.com/defunkt/jquery-pjax.git"
+    },
+    {
+        "name": "hammer.js",
+        "url": "https://github.com/hammerjs/hammer.js.git"
+    },
+    {
+        "name": "sails",
+        "url": "https://github.com/balderdashy/sails.git"
+    },
+    {
+        "name": "Leaflet",
+        "url": "https://github.com/Leaflet/Leaflet.git"
+    },
+    {
+        "name": "ace",
+        "url": "https://github.com/ajaxorg/ace.git"
+    },
+    {
+        "name": "slick",
+        "url": "https://github.com/kenwheeler/slick.git"
+    },
+    {
+        "name": "sweetalert",
+        "url": "https://github.com/t4t5/sweetalert.git"
+    },
+    {
+        "name": "typeahead.js",
+        "url": "https://github.com/twitter/typeahead.js.git"
+    },
+    {
+        "name": "Flat-UI",
+        "url": "https://github.com/designmodo/Flat-UI.git"
+    },
+    {
+        "name": "jquery-mobile",
+        "url": "https://github.com/jquery/jquery-mobile.git"
+    },
+    {
+        "name": "grunt",
+        "url": "https://github.com/gruntjs/grunt.git"
+    },
+    {
+        "name": "fastclick",
+        "url": "https://github.com/ftlabs/fastclick.git"
+    },
+    {
+        "name": "lodash",
+        "url": "https://github.com/lodash/lodash.git"
+    },
+    {
+        "name": "fullPage.js",
+        "url": "https://github.com/alvarotrigo/fullPage.js.git"
+    },
+    {
+        "name": "nprogress",
+        "url": "https://github.com/rstacruz/nprogress.git"
+    },
+    {
+        "name": "video.js",
+        "url": "https://github.com/videojs/video.js.git"
+    },
+    {
+        "name": "backbone-fundamentals",
+        "url": "https://github.com/addyosmani/backbone-fundamentals.git"
+    },
+    {
+        "name": "bootstrap",
+        "url": "https://github.com/angular-ui/bootstrap.git"
+    },
+    {
+        "name": "jquery-ui",
+        "url": "https://github.com/jquery/jquery-ui.git"
+    },
+    {
+        "name": "Respond",
+        "url": "https://github.com/scottjehl/Respond.git"
+    },
+    {
+        "name": "jasmine",
+        "url": "https://github.com/jasmine/jasmine.git"
+    },
+    {
+        "name": "gitbook",
+        "url": "https://github.com/GitbookIO/gitbook.git"
+    },
+    {
+        "name": "q",
+        "url": "https://github.com/kriskowal/q.git"
+    },
+    {
+        "name": "phaser",
+        "url": "https://github.com/photonstorm/phaser.git"
+    },
+    {
+        "name": "dashing",
+        "url": "https://github.com/Shopify/dashing.git"
+    },
+    {
+        "name": "angular-seed",
+        "url": "https://github.com/angular/angular-seed.git"
+    },
+    {
+        "name": "material",
+        "url": "https://github.com/angular/material.git"
+    },
+    {
+        "name": "jade",
+        "url": "https://github.com/jadejs/jade.git"
+    },
+    {
+        "name": "handlebars.js",
+        "url": "https://github.com/wycats/handlebars.js.git"
+    },
+    {
+        "name": "parallax",
+        "url": "https://github.com/wagerfield/parallax.git"
+    },
+    {
+        "name": "masonry",
+        "url": "https://github.com/desandro/masonry.git"
+    },
+    {
+        "name": "material-ui",
+        "url": "https://github.com/callemall/material-ui.git"
+    },
+    {
+        "name": "history.js",
+        "url": "https://github.com/browserstate/history.js.git"
+    },
+    {
+        "name": "PhotoSwipe",
+        "url": "https://github.com/dimsemenov/PhotoSwipe.git"
+    },
+    {
+        "name": "dropzone",
+        "url": "https://github.com/enyo/dropzone.git"
+    },
+    {
+        "name": "PM2",
+        "url": "https://github.com/Unitech/PM2.git"
+    },
+    {
+        "name": "mustache.js",
+        "url": "https://github.com/janl/mustache.js.git"
+    },
+    {
+        "name": "onepage-scroll",
+        "url": "https://github.com/peachananr/onepage-scroll.git"
+    },
+    {
+        "name": "pixi.js",
+        "url": "https://github.com/GoodBoyDigital/pixi.js.git"
+    },
+    {
+        "name": "statsd",
+        "url": "https://github.com/etsy/statsd.git"
+    },
+    {
+        "name": "requirejs",
+        "url": "https://github.com/jrburke/requirejs.git"
+    },
+    {
+        "name": "velocity",
+        "url": "https://github.com/julianshapiro/velocity.git"
+    },
+    {
+        "name": "TimelineJS",
+        "url": "https://github.com/NUKnightLab/TimelineJS.git"
+    },
+    {
+        "name": "uBlock",
+        "url": "https://github.com/chrisaljoudi/uBlock.git"
+    },
+    {
+        "name": "request",
+        "url": "https://github.com/request/request.git"
+    },
+    {
+        "name": "node-browserify",
+        "url": "https://github.com/substack/node-browserify.git"
+    },
+    {
+        "name": "markdown-here",
+        "url": "https://github.com/adam-p/markdown-here.git"
+    },
+    {
+        "name": "dashboards",
+        "url": "https://github.com/keen/dashboards.git"
+    },
+    {
+        "name": "spin.js",
+        "url": "https://github.com/fgnass/spin.js.git"
+    },
+    {
+        "name": "raphael",
+        "url": "https://github.com/DmitryBaranovskiy/raphael.git"
+    },
+    {
+        "name": "jquery-cookie",
+        "url": "https://github.com/carhartl/jquery-cookie.git"
+    },
+    {
+        "name": "headroom.js",
+        "url": "https://github.com/WickyNilliams/headroom.js.git"
+    },
+    {
+        "name": "ui-router",
+        "url": "https://github.com/angular-ui/ui-router.git"
+    },
+    {
+        "name": "famous",
+        "url": "https://github.com/Famous/famous.git"
+    },
+    {
+        "name": "picturefill",
+        "url": "https://github.com/scottjehl/picturefill.git"
+    },
+    {
+        "name": "node-inspector",
+        "url": "https://github.com/node-inspector/node-inspector.git"
+    },
+    {
+        "name": "echarts",
+        "url": "https://github.com/ecomfe/echarts.git"
+    },
+    {
+        "name": "mongoose",
+        "url": "https://github.com/Automattic/mongoose.git"
+    },
+    {
+        "name": "awesome-react",
+        "url": "https://github.com/enaqx/awesome-react.git"
+    },
+    {
+        "name": "CodeMirror",
+        "url": "https://github.com/codemirror/CodeMirror.git"
+    },
+    {
+        "name": "mean",
+        "url": "https://github.com/linnovate/mean.git"
+    },
+    {
+        "name": "immutable-js",
+        "url": "https://github.com/facebook/immutable-js.git"
+    },
+    {
+        "name": "mocha",
+        "url": "https://github.com/mochajs/mocha.git"
+    },
+    {
+        "name": "jQuery-menu-aim",
+        "url": "https://github.com/kamens/jQuery-menu-aim.git"
+    },
+    {
+        "name": "json-server",
+        "url": "https://github.com/typicode/json-server.git"
+    }
+]

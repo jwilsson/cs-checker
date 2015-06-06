@@ -27,4 +27,4 @@ build/Release
 node_modules
 
 # Repo data
-data
+data/repos
